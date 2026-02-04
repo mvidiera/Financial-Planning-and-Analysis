@@ -100,5 +100,31 @@ Future Enhancements
 Real-time prediction API (FastAPI / Flask)
 Interactive dashboards (Streamlit / Dash)
 
+Business Questions: 
+This analysis will answer these critical business questions:
+
+REVENUE FORECASTING
+Q1: What is our expected revenue for the next 12 months?
+Q2: Are there seasonal patterns in our revenue?
+Q3: What factors drive revenue growth?
+Q4: What is our revenue growth rate and trend?
+
+CHURN ANALYSIS
+Q5: Which customers are most likely to churn in the next 3 months?
+Q6: What are the key indicators of churn?
+Q7: What is the financial impact of churn on our business?
+Q8: How does churn vary by customer segment?
+
+PROFITABILITY & COHORTS
+Q9: Which customer cohorts are most valuable?
+Q10: What is our customer retention rate by cohort?
+Q11: How does customer lifetime value vary by segment?
+Q12: What is our payback period for customer acquisition?
+
+CUSTOMER SEGMENTATION
+Q13: Can we identify distinct customer groups for targeted strategies?
+Q14: Which segments are most profitable?
+Q15: How should we allocate resources across segments?
+
 Scenario planning & sensitivity analysis
 Automated reporting workflows
